@@ -1,1 +1,1 @@
-# to-do-list-android
+# Android To Do List Application with Java and there is more updates coming
